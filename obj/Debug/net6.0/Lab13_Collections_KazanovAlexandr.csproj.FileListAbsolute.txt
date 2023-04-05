@@ -1,0 +1,15 @@
+E:\Programms\Lab13_Collections_KazanovAlexandr\bin\Debug\net6.0\Lab13_Collections_KazanovAlexandr.exe
+E:\Programms\Lab13_Collections_KazanovAlexandr\bin\Debug\net6.0\Lab13_Collections_KazanovAlexandr.deps.json
+E:\Programms\Lab13_Collections_KazanovAlexandr\bin\Debug\net6.0\Lab13_Collections_KazanovAlexandr.runtimeconfig.json
+E:\Programms\Lab13_Collections_KazanovAlexandr\bin\Debug\net6.0\Lab13_Collections_KazanovAlexandr.dll
+E:\Programms\Lab13_Collections_KazanovAlexandr\bin\Debug\net6.0\Lab13_Collections_KazanovAlexandr.pdb
+E:\Programms\Lab13_Collections_KazanovAlexandr\obj\Debug\net6.0\Lab13_Collections_KazanovAlexandr.csproj.AssemblyReference.cache
+E:\Programms\Lab13_Collections_KazanovAlexandr\obj\Debug\net6.0\Lab13_Collections_KazanovAlexandr.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programms\Lab13_Collections_KazanovAlexandr\obj\Debug\net6.0\Lab13_Collections_KazanovAlexandr.AssemblyInfoInputs.cache
+E:\Programms\Lab13_Collections_KazanovAlexandr\obj\Debug\net6.0\Lab13_Collections_KazanovAlexandr.AssemblyInfo.cs
+E:\Programms\Lab13_Collections_KazanovAlexandr\obj\Debug\net6.0\Lab13_Collections_KazanovAlexandr.csproj.CoreCompileInputs.cache
+E:\Programms\Lab13_Collections_KazanovAlexandr\obj\Debug\net6.0\Lab13_Collections_KazanovAlexandr.dll
+E:\Programms\Lab13_Collections_KazanovAlexandr\obj\Debug\net6.0\refint\Lab13_Collections_KazanovAlexandr.dll
+E:\Programms\Lab13_Collections_KazanovAlexandr\obj\Debug\net6.0\Lab13_Collections_KazanovAlexandr.pdb
+E:\Programms\Lab13_Collections_KazanovAlexandr\obj\Debug\net6.0\Lab13_Collections_KazanovAlexandr.genruntimeconfig.cache
+E:\Programms\Lab13_Collections_KazanovAlexandr\obj\Debug\net6.0\ref\Lab13_Collections_KazanovAlexandr.dll
